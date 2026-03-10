@@ -16,7 +16,7 @@
 ---
 
 ### 📈 GitHub Analytics
-![Varun's Stats](https://github-readme-stats.vercel.app/api?username=@slyvarun&show_icons=true&theme=tokyonight)
+![Varun's Stats](https://github-readme-stats.vercel.app/api?username=[@slyvarun&show](https://github.com/slyvarun/slyvarun)_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@slyvarun&layout=compact&theme=tokyonight)
 
 ---
