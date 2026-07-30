@@ -6,21 +6,26 @@
   <!-- RIGHT: Circular Spider-Man Matrix -->
   <img align="right" src="spiderman_circle.gif" alt="Spider-Man Matrix" width="280" />
   
-  <!-- MIDDLE: Identity, Socials & Views -->
-  <div align="center" style="padding-top: 30px;">
+  <!-- MIDDLE: Identity, Socials, Views & Quote -->
+  <div align="center" style="padding-top: 15px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=Sai+Varun+Degala;AI+%26+Machine+Learning+Engineer;Bridging+Clinical+Diagnostics+%26+Deep+Learning;Architecting+Graph-Based+RAG+Systems" alt="Typing SVG" />
     
-  <br><br>
+    <br><br>
     
-  <p align="center">
+    <p align="center">
       <a href="https://www.linkedin.com/in/sai-varun-degala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <img src="https://img.shields.io/badge/Google%20Gemini-Campus%20Ambassador-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20IN-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white" />
     </p>
+
     <!-- Profile Views Counter -->
     <p align="center">
       <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
     </p>
+
+    <!-- Dev Quote -->
+    <br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
   </div>
 </div>
 
@@ -29,21 +34,7 @@
 
 ---
 
-<!-- ================= PROFILE SECTIONS ================= -->
-
-## 👨‍💻 The Engineer
-I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
-
----
-
-## 🔬 Research & Intelligence
-> **Focus:** *Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.*
-
-* 🏥 **Applied Research Intern @ Osmania University:** Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.
-* 🕸️ **Advanced RAG & LLMs (MedGraph Nexus):** Architected a robust backend system integrating Large Language Models (LLMs) with a **Neo4j Graph Database**. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via **FastAPI**, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.
-* 🧠 **Clinical Diagnostics:** Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.
-
----
+<!-- ================= TECHNICAL ARSENAL ================= -->
 
 ## 💻 Technical Arsenal
 
@@ -64,7 +55,29 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 
 ---
 
+<!-- ================= PROFILE SECTIONS ================= -->
 
+## 👨‍💻 The Engineer
+I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
+
+---
+
+## 🔬 Research & Intelligence
+> **Focus:** *Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.*
+
+* 🏥 **Applied Research Intern @ Osmania University:** Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.
+* 🕸️ **Advanced RAG & LLMs (MedGraph Nexus):** Architected a robust backend system integrating Large Language Models (LLMs) with a **Neo4j Graph Database**. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via **FastAPI**, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.
+* 🧠 **Clinical Diagnostics:** Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.
+
+---
+
+## 📊 Telemetry & Trophies
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=slyvarun&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
+  <br><br>
 
   <!-- GitHub Stats & Languages -->
   <img src="https://github-readme-stats.shion.dev/api?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -74,9 +87,4 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=slyvarun&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
 </div>
