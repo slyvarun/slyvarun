@@ -30,13 +30,13 @@
   <div style="width: 45%; float: left; text-align: center;">
      <!-- Your Circular Binary Portrait -->
     <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="margin-bottom: 20px;" />
-    
-  <img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
-    <br><br>
-
-  <div style="padding-top: 10px;">
+    <div style="padding-top: 10px;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
     </div>
+  <img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
+
+
+  
 
   </div>
 
