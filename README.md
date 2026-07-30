@@ -30,12 +30,10 @@
   <div style="width: 45%; float: left; text-align: center;">
      <!-- Your Circular Binary Portrait -->
     <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="margin-bottom: 20px;" />
-    
-  <br><br>
+    <br><br>
     
     <!-- Circular Spider-Man Matrix -->
   <img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
-    
     <br><br>
 
     <!-- Dev Quote -->
