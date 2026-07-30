@@ -29,8 +29,8 @@
   <!-- LEFT PANE: The GIFs & The Quote -->
   <div style="width: 45%; float: left; text-align: center;">
      <!-- Your Circular Binary Portrait -->
-    <img src="varun_binary.gif" alt="Varun Sai Degala" width="120" style="margin-bottom: 20px;" />
     <div style="padding-top: 10px;">
+    <img src="varun_binary.gif" alt="Varun Sai Degala" width="120" style="margin-bottom: 20px;" />
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
     </div>
 
