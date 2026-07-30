@@ -1,55 +1,39 @@
-<!-- Animated Typing Header -->
+<!-- The "Boot Sequence" Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Varun+(Sai+Varun+Degala);AI+%26+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=800&lines=INIT_CONNECTION...;ESTABLISHING_SECURE_LINK...;WELCOME_TO_THE_MAINFRAME_OF_SAI_VARUN_DEGALA." alt="Typing SVG" />
 </div>
 
-<!-- Animated Profile Picture (Requires a .gif file in your repo) -->
+<!-- The Biometric Scan (Animated Profile Photo) -->
 <div align="center">
-  <img src="animated-profile.gif" alt="Varun Binary Profile" width="180" style="border-radius: 50%; box-shadow: 0 0 10px #4285F4;" />
+  <br>
+  <code>>>> BIOMETRIC SCAN ACCEPTED <<<</code><br><br>
+  <img src="binary_portrait.gif" width="170" style="border-radius: 50%; border: 2px dashed #4285F4; box-shadow: 0 0 35px rgba(66, 133, 244, 0.5);" />
+  <br><br>
+  <code>[ ROLE: AI_SYSTEMS_ENGINEER ] | [ BASE: HYD_IND ] | [ UPTIME: ONLINE ]</code>
+  <br><br>
 </div>
 
+---
+
+### 🖥️ INTERACTIVE TERMINAL
+> *SYSTEM PROMPT: Click the commands below to execute queries and extract data.*
+
+<details>
+<summary><code><b>root@varun:~$ ./execute_whoami.sh</b></code> <i>(Click to execute)</i></summary>
 <br>
+<blockquote>
+  <strong>ACCESS GRANTED.</strong><br>
+  I don't just write scripts; I architect intelligent systems. I bridge the gap between <strong>Biomedical Engineering</strong> (clinical insights, diagnostics) and <strong>Hardcore AI/ML</strong> (Graph RAGs, Computer Vision, Telemetry). Whether I'm hunting anomalies in railway control systems or building a privacy-first financial agent, I write code that manipulates the real world.
+</blockquote>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-Campus%20Ambassador-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+<details>
+<summary><code><b>root@varun:~$ cat /config/tech_stack.json</b></code> <i>(Click to execute)</i></summary>
 
-### 🚀 Professional Summary
-- 🎓 **B.Tech Student** in Computer Science (AI & ML) at Kommuri Pratap Reddy Institute of Technology.
-- 🔬 **Research Intern** at Osmania University, Biomedical Engineering Department.
-- 🌟 **Google Gemini Campus Ambassador** (2025–2026) — Led AI initiatives and prompt engineering workshops.
-- 🏗️ **Currently Building**: 
-  - **UniRide**: A global, scalable vehicle-pooling platform designed for everyone.
-  - **Finete.AI**: A full-stack, privacy-focused financial anomaly detection platform.
-- 🔍 **Research & Projects**: Graph-based RAG architectures (MedGraph Nexus), multi-class brain tumor detection, and anomaly detection in railway control systems.
-
----
-
-### 🛠️ Technical Toolbox
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, SQL, C++ |
-| **AI/ML** | TensorFlow, Scikit-learn, Computer Vision, Generative AI |
-| **Backend & Data** | FastAPI, Neo4j (Graph DBs), Full-Stack Web Development |
-| **Domain Knowledge** | Biomedical Engineering (Government Institute of Electronics, Yashoda Hospitals) |
-
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=slyvarun&show_icons=true&theme=tokyonight&hide_border=true" alt="Varun's Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=slyvarun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/sai-varun-degala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <em>“Building the future with AI, one prompt at a time.”</em>
-</p>
+```json
+{
+  "core_languages": ["Python", "Java", "JavaScript", "SQL", "C++"],
+  "ai_machine_learning": ["TensorFlow", "Scikit-learn", "Computer Vision", "Generative AI"],
+  "backend_infrastructure": ["FastAPI", "Neo4j", "Graph RAG", "Real-Time Telemetry"],
+  "domain_knowledge": ["Biomedical Engineering", "Ex-Yashoda Hospitals Intern"]
+}
