@@ -1,16 +1,27 @@
-<!-- HERO SECTION -->
+<!-- ================= HERO SECTION ================= -->
+<div>
+  <!-- LEFT: Your Binary Portrait (Enlarged & Circular) -->
+  <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="280" height="280" style="border-radius: 50%; box-shadow: 0 0 20px rgba(66, 133, 244, 0.4); object-fit: cover;" />
+  
+  <!-- RIGHT: Spider-Man Matrix (Enlarged & Circular) -->
+  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="280" height="280" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,255,0,0.3); object-fit: cover;" />
+  
+  <!-- MIDDLE: Core Skills Elements -->
+  <div align="center" style="padding-top: 20px;">
+    <h3>⚙️ Core Arsenal</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
+    <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge&logo=openai&logoColor=white" /><br><br>
+    <img src="https://img.shields.io/badge/Graph_RAG-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br><br>
+    <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white" /><br><br>
+    <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
+  </div>
+</div>
+
+<!-- Clear the left/right alignments so the next sections don't break -->
+<br clear="both" />
+<br>
+
 <div align="center">
-  <!-- Your New Circular Binary Portrait -->
-  <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="border-radius: 50%; box-shadow: 0 0 20px rgba(66, 133, 244, 0.4);" />
-  
-  
-  <br><br>
-
-  <!-- The Large Spider-Man Matrix Header -->
-  <img src="spiderman_matrix.gif" alt="Binary Spider-Man Rendering" width="450" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);" />
-  
-  <br><br>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=Sai+Varun+Degala;AI+%26+Machine+Learning+Engineer;Bridging+Clinical+Diagnostics+%26+Deep+Learning;Architecting+Graph-Based+RAG+Systems" alt="Typing SVG" />
 
   <p align="center">
@@ -21,6 +32,8 @@
 </div>
 
 ---
+
+<!-- ================= PROFILE SECTIONS ================= -->
 
 ## 👨‍💻 The Engineer
 I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
@@ -47,25 +60,19 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Full Technical Arsenal
 
-### **Languages & Core**
+### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-### **AI, ML & Data**
+### **ML & Infrastructure**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/Graph_RAG-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=opencv&logoColor=white)
-
-### **Architecture & Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-20232A?style=flat-square&logo=react&logoColor=white)
 
