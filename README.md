@@ -10,19 +10,19 @@
   <div align="center" style="padding-top: 5px;">
     <h3>⚙️ Arsenal & Research</h3>
     
-    <b>AI & Architecture</b><br>
-    <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Graph_RAG-4285F4?style=flat-square&logo=google-gemini&logoColor=white" /><br>
     <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" /><br>
     
-    <br><b>Research & Domain</b><br>
+  <br><b>Research & Domain</b><br>
     <img src="https://img.shields.io/badge/Biomedical_AI-E34F26?style=flat-square&logo=health&logoColor=white" />
     <img src="https://img.shields.io/badge/Clinical_Diagnostics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br>
     <img src="https://img.shields.io/badge/Deep_Learning-3776AB?style=flat-square&logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/Interpretable_ML-20232A?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
     
-    <br><b>Engineering Core</b><br>
+  <br><b>Engineering Core</b><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
