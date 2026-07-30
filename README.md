@@ -1,6 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="spiderman_matrix.gif" alt="Varun Sai Degala" width="220" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,255,0,0.2);" />
+  <!-- Increased width to 450 for a larger, bolder presence -->
+  <img src="spiderman_matrix.gif" alt="Varun Sai Degala" width="450" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);" />
   
   <br><br>
 
