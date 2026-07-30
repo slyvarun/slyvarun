@@ -52,7 +52,7 @@
       I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
     </p>
 
-    <br>
+  <br>
 
   <h2>🔬 Research & Intelligence</h2>
     <blockquote>
@@ -154,9 +154,4 @@
   <!-- GitHub Streak Centered Below -->
   <img src="https://streak-stats.demolab.com/?user=slyvarun&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
 </div>
-```eof
 
-### What is new here?
-1. **The Top Banner:** Instead of just text, you now have a sleek SVG "waving" banner that gradients from GitHub Dark Mode into Google Blue, complete with twinkling star animations.
-2. **The Split Pane:** Instead of everything stacking straight down the middle in one long scroll, the page splits into two columns. On the left side, your GIFs and Dev Quote are stacked like a vertical sidebar. On the right side, your Engineer Bio and Research Info sit cleanly next to them. 
-3. **The Transition Divider:** I added an inverted SVG wave right before the Technical Arsenal to smoothly break up the text-heavy sections from the visual badges.
