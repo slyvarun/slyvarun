@@ -1,7 +1,12 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <!-- Increased width to 450 for a larger, bolder presence -->
-  <img src="spiderman_matrix.gif" alt="Varun Sai Degala" width="450" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);" />
+  <!-- Your New Circular Binary Portrait -->
+  <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="border-radius: 50%; box-shadow: 0 0 20px rgba(66, 133, 244, 0.4);" />
+  
+  <br><br>
+
+  <!-- The Large Spider-Man Matrix Header -->
+  <img src="spiderman_matrix.gif" alt="Binary Spider-Man Rendering" width="450" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);" />
   
   <br><br>
 
