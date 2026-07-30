@@ -29,11 +29,10 @@
   <!-- LEFT PANE: The GIFs & The Quote -->
   <div style="width: 45%; float: left; text-align: center;">
      <!-- Your Circular Binary Portrait -->
-    <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="margin-bottom: 20px;" />
+    <img src="varun_binary.gif" alt="Varun Sai Degala" width="120" style="margin-bottom: 20px;" />
     <div style="padding-top: 10px;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
     </div>
-  <img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
 
 
   
@@ -138,7 +137,7 @@
 <!-- ================= TELEMETRY & ANALYTICS =============== -->
 <!-- ======================================================= -->
 ## 📊 Telemetry & Analytics
-
+<img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
 <div align="center">
   <!-- GitHub Stats & Languages Side by Side -->
   <img src="https://github-readme-stats.shion.dev/api?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
