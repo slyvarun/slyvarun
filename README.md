@@ -25,10 +25,10 @@
    <!-- MIDDLE: GIFs and Dev Quote -->
 <div>
   <!-- LEFT: Your Circular Binary Portrait -->
-  <img align="left" src="varun_circle.gif" alt="Varun Sai Degala" width="250" />
+  <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="250" />
   
   <!-- RIGHT: Circular Spider-Man Matrix -->
-  <img align="right" src="spiderman_circle.gif" alt="Spider-Man Matrix" width="250" />
+  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="250" />
   
   <!-- CENTER: Dev Quote -->
   <div align="center" style="padding-top: 60px;">
