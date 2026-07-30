@@ -28,19 +28,18 @@
 
   <!-- LEFT PANE: The GIFs & The Quote -->
   <div style="width: 45%; float: left; text-align: center;">
-    
-    <!-- Your Circular Binary Portrait -->
+     <!-- Your Circular Binary Portrait -->
     <img src="varun_circle.gif" alt="Varun Sai Degala" width="220" style="margin-bottom: 20px;" />
     
-    <br><br>
+  <br><br>
     
     <!-- Circular Spider-Man Matrix -->
-    <img src="spiderman_circle.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
+  <img src="spiderman_circle.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
     
     <br><br>
 
     <!-- Dev Quote -->
-    <div style="padding-top: 10px;">
+  <div style="padding-top: 10px;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
     </div>
 
@@ -55,11 +54,10 @@
 
     <br>
 
-    <h2>🔬 Research & Intelligence</h2>
+  <h2>🔬 Research & Intelligence</h2>
     <blockquote>
       <b>Focus:</b> <i>Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.</i>
     </blockquote>
-
     <ul>
       <li>🏥 <b>Applied Research Intern @ Osmania University:</b> Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.</li>
       <li>🕸️ <b>Advanced RAG & LLMs (MedGraph Nexus):</b> Architected a robust backend system integrating Large Language Models (LLMs) with a <b>Neo4j Graph Database</b>. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via <b>FastAPI</b>, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.</li>
