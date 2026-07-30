@@ -10,14 +10,13 @@
   <div align="center" style="padding-top: 30px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=Sai+Varun+Degala;AI+%26+Machine+Learning+Engineer;Bridging+Clinical+Diagnostics+%26+Deep+Learning;Architecting+Graph-Based+RAG+Systems" alt="Typing SVG" />
     
-    <br><br>
+  <br><br>
     
-    <p align="center">
+  <p align="center">
       <a href="https://www.linkedin.com/in/sai-varun-degala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <img src="https://img.shields.io/badge/Google%20Gemini-Campus%20Ambassador-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20IN-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white" />
     </p>
-
     <!-- Profile Views Counter -->
     <p align="center">
       <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
@@ -65,13 +64,7 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 
 ---
 
-## 📊 Telemetry & Trophies
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=slyvarun&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-  <br><br>
 
   <!-- GitHub Stats & Languages -->
   <img src="https://github-readme-stats.shion.dev/api?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
