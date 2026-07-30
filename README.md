@@ -1,10 +1,10 @@
 <!-- ================= HERO SECTION ================= -->
 <div>
   <!-- LEFT: Your Circular Binary Portrait -->
-  <img align="left" src="varun_circle.gif" alt="Varun Sai Degala" width="280" />
+  <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="280" />
   
   <!-- RIGHT: Circular Spider-Man Matrix -->
-  <img align="right" src="spiderman_circle.gif" alt="Spider-Man Matrix" width="280" />
+  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="280" />
   
   <!-- MIDDLE: Identity, Socials, Views & Quote -->
   <div align="center" style="padding-top: 15px;">
