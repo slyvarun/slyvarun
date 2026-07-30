@@ -1,10 +1,5 @@
 <!-- ================= HERO SECTION ================= -->
 <div>
-  <!-- LEFT: Your Circular Binary Portrait -->
-  <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="280" />
-  
-  <!-- RIGHT: Circular Spider-Man Matrix -->
-  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="280" />
   
   <!-- MIDDLE: Identity, Socials, Views & Quote -->
   <div align="center" style="padding-top: 15px;">
@@ -26,14 +21,12 @@
 <div>
   <!-- LEFT: Your Circular Binary Portrait -->
   <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="250" />
-  
-  <!-- RIGHT: Circular Spider-Man Matrix -->
-  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="250" />
-  
-  <!-- CENTER: Dev Quote -->
+    <!-- CENTER: Dev Quote -->
   <div align="center" style="padding-top: 60px;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
   </div>
+  <!-- RIGHT: Circular Spider-Man Matrix -->
+  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="250" />
 </div>
 
 <br clear="both" />
