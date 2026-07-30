@@ -3,6 +3,7 @@
   <!-- Your New Circular Binary Portrait -->
   <img src="varun_binary.gif" alt="Varun Sai Degala" width="220" style="border-radius: 50%; box-shadow: 0 0 20px rgba(66, 133, 244, 0.4);" />
   
+  
   <br><br>
 
   <!-- The Large Spider-Man Matrix Header -->
