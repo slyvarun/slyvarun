@@ -1,17 +1,19 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ======================================================= -->
+<!-- ================= HERO OVERLAY SECTION ================= -->
+<!-- ======================================================= -->
 <div align="center">
-  <!-- TOP: Identity, Socials & Views -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=Sai+Varun+Degala;AI+%26+Machine+Learning+Engineer;Bridging+Clinical+Diagnostics+%26+Deep+Learning;Architecting+Graph-Based+RAG+Systems" alt="Typing SVG" />
-  
-  <br><br>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4285F4&height=180&section=header&text=Sai%20Varun%20Degala&fontSize=50&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/sai-varun-degala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Google%20Gemini-Campus%20Ambassador-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
     <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20IN-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
-
-  <!-- Profile Views Counter -->
+  
   <p align="center">
     <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
   </p>
@@ -19,26 +21,64 @@
 
 <br>
 
-<!-- MIDDLE: GIFs and Dev Quote -->
-<div>
-  <!-- LEFT: Your Binary Portrait -->
-  <img align="left" src="varun_binary.gif" alt="Varun Sai Degala" width="250" />
-  
-  <!-- RIGHT: Spider-Man Matrix -->
-  <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="250" />
-  
-  <!-- CENTER: Dev Quote -->
-  <div align="center" style="padding-top: 60px;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+<!-- ======================================================= -->
+<!-- ================= DYNAMIC SPLIT PANE ================== -->
+<!-- ======================================================= -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <!-- LEFT PANE: The GIFs & The Quote -->
+  <div style="width: 45%; float: left; text-align: center;">
+    
+    <!-- Your Circular Binary Portrait -->
+    <img src="varun_circle.gif" alt="Varun Sai Degala" width="220" style="margin-bottom: 20px;" />
+    
+    <br><br>
+    
+    <!-- Circular Spider-Man Matrix -->
+    <img src="spiderman_circle.gif" alt="Spider-Man Matrix" width="220" style="margin-bottom: 20px;" />
+    
+    <br><br>
+
+    <!-- Dev Quote -->
+    <div style="padding-top: 10px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+    </div>
+
   </div>
+
+  <!-- RIGHT PANE: The Engineer Story -->
+  <div style="width: 50%; float: right; padding-left: 2%;">
+    <h2>👨‍💻 The Engineer</h2>
+    <p>
+      I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
+    </p>
+
+    <br>
+
+    <h2>🔬 Research & Intelligence</h2>
+    <blockquote>
+      <b>Focus:</b> <i>Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.</i>
+    </blockquote>
+
+    <ul>
+      <li>🏥 <b>Applied Research Intern @ Osmania University:</b> Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.</li>
+      <li>🕸️ <b>Advanced RAG & LLMs (MedGraph Nexus):</b> Architected a robust backend system integrating Large Language Models (LLMs) with a <b>Neo4j Graph Database</b>. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via <b>FastAPI</b>, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.</li>
+      <li>🧠 <b>Clinical Diagnostics:</b> Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.</li>
+    </ul>
+  </div>
+
 </div>
 
+<!-- Clear the float so the layout resets below this point -->
 <br clear="both" />
-<br>
+<br><br><br>
 
----
-
-<!-- ================= TECHNICAL ARSENAL ================= -->
+<!-- ======================================================= -->
+<!-- ================= TECHNICAL ARSENAL =================== -->
+<!-- ======================================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0D1117&height=80&section=footer" width="100%" />
+</div>
 
 ## 💻 Technical Arsenal
 
@@ -101,24 +141,9 @@
 
 ---
 
-<!-- ================= PROFILE SECTIONS ================= -->
-
-## 👨‍💻 The Engineer
-I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS (AI & ML) at KPRIT. I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
-
----
-
-## 🔬 Research & Intelligence
-> **Focus:** *Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.*
-
-* 🏥 **Applied Research Intern @ Osmania University:** Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.
-* 🕸️ **Advanced RAG & LLMs (MedGraph Nexus):** Architected a robust backend system integrating Large Language Models (LLMs) with a **Neo4j Graph Database**. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via **FastAPI**, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.
-* 🧠 **Clinical Diagnostics:** Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.
-
----
-
-<!-- ================= TELEMETRY & ANALYTICS ================= -->
-
+<!-- ======================================================= -->
+<!-- ================= TELEMETRY & ANALYTICS =============== -->
+<!-- ======================================================= -->
 ## 📊 Telemetry & Analytics
 
 <div align="center">
@@ -133,4 +158,7 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 </div>
 ```eof
 
-This version strictly uses `varun_binary.gif` and `spiderman_matrix.gif` and ensures they flank the Dev Quote perfectly. Copy this entire block into your GitHub Codespace!
+### What is new here?
+1. **The Top Banner:** Instead of just text, you now have a sleek SVG "waving" banner that gradients from GitHub Dark Mode into Google Blue, complete with twinkling star animations.
+2. **The Split Pane:** Instead of everything stacking straight down the middle in one long scroll, the page splits into two columns. On the left side, your GIFs and Dev Quote are stacked like a vertical sidebar. On the right side, your Engineer Bio and Research Info sit cleanly next to them. 
+3. **The Transition Divider:** I added an inverted SVG wave right before the Technical Arsenal to smoothly break up the text-heavy sections from the visual badges.
