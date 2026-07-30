@@ -21,8 +21,7 @@
     <p align="center">
       <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
     </p>
-
-    <!-- Dev Quote -->
+ <!-- Dev Quote -->
     <br>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
   </div>
