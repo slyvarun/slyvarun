@@ -6,14 +6,28 @@
   <!-- RIGHT: Spider-Man Matrix (Enlarged & Circular) -->
   <img align="right" src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="280" height="280" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,255,0,0.3); object-fit: cover;" />
   
-  <!-- MIDDLE: Core Skills Elements -->
-  <div align="center" style="padding-top: 20px;">
-    <h3>⚙️ Core Arsenal</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
-    <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge&logo=openai&logoColor=white" /><br><br>
-    <img src="https://img.shields.io/badge/Graph_RAG-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br><br>
-    <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white" /><br><br>
-    <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <!-- MIDDLE: Core, Research & Engineering Arsenal -->
+  <div align="center" style="padding-top: 5px;">
+    <h3>⚙️ Arsenal & Research</h3>
+    
+    <b>AI & Architecture</b><br>
+    <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Graph_RAG-4285F4?style=flat-square&logo=google-gemini&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" /><br>
+    
+    <br><b>Research & Domain</b><br>
+    <img src="https://img.shields.io/badge/Biomedical_AI-E34F26?style=flat-square&logo=health&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clinical_Diagnostics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Deep_Learning-3776AB?style=flat-square&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/Interpretable_ML-20232A?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
+    
+    <br><b>Engineering Core</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   </div>
 </div>
 
@@ -46,35 +60,6 @@ I am an AI/ML Engineer and Systems Architect currently pursuing my B.Tech in CS 
 * 🏥 **Applied Research Intern @ Osmania University:** Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.
 * 🕸️ **Advanced RAG & LLMs (MedGraph Nexus):** Architected a robust backend system integrating Large Language Models (LLMs) with a **Neo4j Graph Database**. By utilizing Graph-based Retrieval-Augmented Generation (RAG) via **FastAPI**, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.
 * 🧠 **Clinical Diagnostics:** Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.
-
----
-
-## 🏗️ Featured Architectures
-
-| Project | Domain | System Description | Status |
-| :--- | :--- | :--- | :--- |
-| **Finete.AI** | `FinTech` | A full-stack, privacy-focused financial anomaly detection agent built for local execution. | 🟢 **Deployed** |
-| **UniRide** | `Mobility` | A highly scalable, global vehicle-pooling ecosystem engineered to connect everyday people worldwide. | 🟡 **Scaling** |
-| **Telemetry AI** | `Networking` | Real-Time Packet Loss Detection System utilizing interpretable ML for monitoring network traffic anomalies. | 🟢 **Active** |
-| **AI Portfolio** | `Web/UI` | A custom portfolio architecture featuring a fully integrated, interactive AI assistant directly in the source code. | 🟢 **Online** |
-
----
-
-## 🛠️ Full Technical Arsenal
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-### **ML & Infrastructure**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![System Architecture](https://img.shields.io/badge/System_Architecture-20232A?style=flat-square&logo=react&logoColor=white)
 
 ---
 
