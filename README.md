@@ -22,13 +22,21 @@
       <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
     </p>
  <!-- Dev Quote -->
-    <br>
+   <!-- MIDDLE: GIFs and Dev Quote -->
+<div>
+  <!-- LEFT: Your Circular Binary Portrait -->
+  <img align="left" src="varun_circle.gif" alt="Varun Sai Degala" width="250" />
+  
+  <!-- RIGHT: Circular Spider-Man Matrix -->
+  <img align="right" src="spiderman_circle.gif" alt="Spider-Man Matrix" width="250" />
+  
+  <!-- CENTER: Dev Quote -->
+  <div align="center" style="padding-top: 60px;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
   </div>
 </div>
 
 <br clear="both" />
-<br>
 
 ---
 
