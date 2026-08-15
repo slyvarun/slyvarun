@@ -1,14 +1,14 @@
 <!-- ======================================================= -->
-<!-- ================= COMPACT AESTHETIC HEADER ============ -->
+<!-- ================= AESTHETIC HEADER ==================== -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4285F4&height=130&section=header&text=Sai%20Varun%20Degala&fontSize=40&fontAlign=50&fontAlignY=40&desc=Abstracting%20Intelligence&descAlign=50&descAlignY=65&fontColor=ffffff&descSize=16&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4285F4&height=130&section=header&text=Sai%20Varun%20Degala&fontSize=40&fontAlign=50&fontAlignY=40&desc=Abstracting%2520Intelligence&descAlign=50&descAlignY=65&fontColor=ffffff&descSize=16&animation=twinkling" width="100%" />
 </div>
 
 <br>
 
 <!-- ======================================================= -->
-<!-- ================= SINGLE-ROW GITHUB STATS ============= -->
+<!-- ================= GITHUB TELEMETRY ==================== -->
 <!-- ======================================================= -->
 <div align="center">
   <h3 style="border-bottom: none; font-weight: 300; margin: 0 0 10px 0;"><code>// GITHUB_TELEMETRY</code></h3>
@@ -24,26 +24,86 @@
 <br>
 
 <!-- ======================================================= -->
-<!-- ================= COMPACT TECH ARSENAL ================ -->
+<!-- ================= MINI GAME: SKILL BLAST ============== -->
 <!-- ======================================================= -->
 <div align="center">
-  <h3 style="border-bottom: none; font-weight: 300; margin: 0 0 15px 0;"><code>// TECHNICAL_STACK</code></h3>
+  <h3 style="border-bottom: none; font-weight: 300; margin: 0 0 5px 0;"><code>// LAUNCH_SKILL_BLAST</code></h3>
+  <p style="font-size: 13px; color: #888; margin-bottom: 10px;">Click/Tap target blocks below to launch the rocket and uncover your arsenal!</p>
 
-  <p>
-    ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-    ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-  </p>
+  <div id="game-container" style="position: relative; width: 100%; max-width: 500px; height: 180px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; padding: 15px; box-sizing: border-box;">
+    
+    <!-- Score & Status Bar -->
+    <div style="display: flex; justify-content: space-between; font-family: monospace; font-size: 12px; color: #4285F4;">
+      <span id="game-score">UNLOCKED: 0 / 6</span>
+      <span id="game-msg">STATUS: READY FOR LAUNCH</span>
+    </div>
+
+    <!-- Target Skill Blocks Grid -->
+    <div id="skill-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; z-index: 2;">
+      <div class="skill-tile" onclick="blastSkill(this, 'Python')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+      <div class="skill-tile" onclick="blastSkill(this, 'PyTorch')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+      <div class="skill-tile" onclick="blastSkill(this, 'FastAPI')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+      <div class="skill-tile" onclick="blastSkill(this, 'Neo4j')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+      <div class="skill-tile" onclick="blastSkill(this, 'Docker')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+      <div class="skill-tile" onclick="blastSkill(this, 'TypeScript')" style="background: #161b22; border: 1px dashed #4285F4; border-radius: 6px; padding: 8px; cursor: pointer; text-align: center; font-family: monospace; font-size: 12px; color: #8b949e; transition: all 0.3s;">
+        🔒 [CLASSIFIED]
+      </div>
+    </div>
+
+    <!-- Rocket Launcher -->
+    <div id="rocket" style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%); font-size: 18px; transition: all 0.4s ease-in-out; pointer-events: none;">
+      🚀
+    </div>
+  </div>
 </div>
+
+<script>
+  let unlockedCount = 0;
+  function blastSkill(element, skillName) {
+    if (element.classList.contains('unlocked')) return;
+    
+    const rocket = document.getElementById('rocket');
+    const msg = document.getElementById('game-msg');
+    const containerRect = document.getElementById('game-container').getBoundingClientRect();
+    const elemRect = element.getBoundingClientRect();
+    
+    // Move rocket toward target
+    const relativeX = (elemRect.left + elemRect.width / 2) - (containerRect.left + containerRect.width / 2);
+    rocket.style.transform = `translate(calc(-50% + ${relativeX}px), -90px)`;
+    msg.innerText = `LAUNCHING AT: ${skillName}...`;
+
+    setTimeout(() => {
+      element.classList.add('unlocked');
+      element.style.background = '#1f6feb33';
+      element.style.borderColor = '#4285F4';
+      element.style.color = '#ffffff';
+      element.style.fontWeight = 'bold';
+      element.innerHTML = `✨ ${skillName}`;
+      
+      unlockedCount++;
+      document.getElementById('game-score').innerText = `UNLOCKED: ${unlockedCount} / 6`;
+
+      // Reset rocket position
+      rocket.style.transform = 'translateX(-50%)';
+
+      if (unlockedCount === 6) {
+        msg.innerText = 'STATUS: ARSENAL FULLY UNLOCKED!';
+      } else {
+        msg.innerText = 'STATUS: READY FOR LAUNCH';
+      }
+    }, 400);
+  }
+</script>
 
 <br>
 
