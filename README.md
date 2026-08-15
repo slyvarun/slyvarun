@@ -8,90 +8,21 @@
 <br><br>
 
 <!-- ======================================================= -->
-<!-- ================= BLOCK 1: IDENTITY =================== -->
-<!-- ======================================================= -->
-<div>
-  <!-- LEFT SIDE: Bio & Identity (55% width) -->
-  <div style="float: left; width: 55%;">
-    <h2 style="border-bottom: none; font-weight: 300;"><code>// INITIALIZE_ENGINEER</code></h2>
-    
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=4285F4&lines=AI+%26+Machine+Learning+Engineer;Clinical+Diagnostics+Architect;Graph-Based+RAG+Specialist" alt="Typing SVG" />
-    
-  <p style="font-size: 16px; line-height: 1.6;">
-      I treat code as a raw material to solve complex, real-world problems. With a unique foundation in Biomedical Engineering, I specialize in building deterministic, highly accurate intelligent systems—from global mobility platforms to deep learning clinical diagnostics.
-    </p>
-    
-  <p>
-      <a href="https://www.linkedin.com/in/sai-varun-degala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <img src="https://img.shields.io/badge/Google%20Gemini-Campus%20Ambassador-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- RIGHT SIDE: Visual Abstract Cluster (40% width) -->
-  <div style="float: right; width: 40%; text-align: center; padding-top: 20px;">
-    <!-- Circular GIFs Side-by-Side -->
-    <img src="varun_binary.gif" alt="Varun Sai Degala" width="150" />
-    &nbsp; &nbsp;
-    <img src="spiderman_matrix.gif" alt="Spider-Man Matrix" width="150" />
-    
-  <br><br>
-    
-  <!-- Floating Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" style="width: 100%; max-width: 350px;" />
-  </div>
-</div>
-
-<br clear="both" />
-<br><br>
-
-<!-- ======================================================= -->
-<!-- ================= ABSTRACT SEPARATOR ================== -->
+<!-- ================= BLOCK 1: GITHUB METRICS ============= -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=2" width="80%" />
-</div>
-<br><br>
-
-<!-- ======================================================= -->
-<!-- ================= BLOCK 2: INTELLIGENCE =============== -->
-<!-- ======================================================= -->
-<div>
-  <!-- LEFT SIDE: Telemetry & Analytics (40% width) -->
-  <div style="float: left; width: 40%;">
-    <h2 style="border-bottom: none; font-weight: 300;"><code>// SYSTEM_TELEMETRY</code></h2>
-    
-  <div align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="100%" style="margin-bottom: 10px;" />
-      
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" style="margin-bottom: 10px;" />
-      
-   <img src="https://streak-stats.demolab.com/?user=slyvarun&theme=shadow_blue&hide_border=false" width="100%" />
-    </div>
-  </div>
-
-  <!-- RIGHT SIDE: Research & Engineering (55% width) -->
-  <div style="float: right; width: 55%;">
-    <h2 style="border-bottom: none; font-weight: 300;"><code>// RESEARCH_DATA</code></h2>
-    
-  <blockquote>
-      <b>Focus:</b> <i>Eliminating AI hallucinations through structured data architectures and bridging the gap between medical hardware and deep learning software.</i>
-    </blockquote>
-
-   <ul>
-      <li style="margin-bottom: 10px;">🏥 <b>Applied Research Intern @ Osmania University:</b> Currently operating within the Biomedical Engineering Department, applying advanced machine learning models to solve complex clinical hardware and diagnostic problems.</li>
-      <li style="margin-bottom: 10px;">🕸️ <b>Advanced RAG & LLMs (MedGraph Nexus):</b> Architected a robust backend system integrating Large Language Models (LLMs) with a <b>Neo4j Graph Database</b>. By utilizing Graph-based RAG via <b>FastAPI</b>, this system maps complex pharmaceutical intelligence to ensure highly accurate, deterministic AI responses.</li>
-      <li style="margin-bottom: 10px;">🧠 <b>Clinical Diagnostics:</b> Developed a Multi-class Brain Tumor Detection Computer Vision model, leveraging domain expertise gained during my clinical tenure at Yashoda Hospitals.</li>
-    </ul>
-
-    <!-- Subtle Profile Views Anchor -->
+  <h2 style="border-bottom: none; font-weight: 300;"><code>// GITHUB_TELEMETRY</code></h2>
   <br>
-    <div align="right">
-      <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=slyvarun&icon=1&color=1" alt="Profile Views" /></a>
-    </div>
-  </div>
+
+  <img src="https://github-readme-stats.shion.dev/api?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" style="margin-bottom: 15px;" />
+  &nbsp; &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=slyvarun&theme=shadow_blue&hide_border=false" width="48%" style="margin-bottom: 15px;" />
+
+  <br>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=slyvarun&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
 </div>
 
-<br clear="both" />
 <br><br>
 
 <!-- ======================================================= -->
@@ -103,7 +34,7 @@
 <br><br>
 
 <!-- ======================================================= -->
-<!-- ================= BLOCK 3: TECH ARSENAL =============== -->
+<!-- ================= BLOCK 2: TECH ARSENAL =============== -->
 <!-- ======================================================= -->
 <div align="center">
   <h2 style="border-bottom: none; font-weight: 300;"><code>// FULL_TECHNICAL_ARSENAL</code></h2>
@@ -168,6 +99,7 @@
 </div>
 
 <br><br>
+
 <!-- ======================================================= -->
 <!-- ================= FOOTER BANNER ======================= -->
 <!-- ======================================================= -->
