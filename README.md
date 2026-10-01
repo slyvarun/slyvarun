@@ -1,9 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7)
-
-
-
-[![Pull Requests](https://img.shields.io/badge/Pull_Requests-150+-brightgreen?style=for-the-badge&logo=github)](#)
-[![Contributions](https://img.shields.io/badge/Contributions_This_Year-500+-blue?style=for-the-badge&logo=github)](#)
-[![Longest Streak](https://img.shields.io/badge/Longest_Streak-45_Days-orange?style=for-the-badge&logo=github)](#)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slyvarun&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&count_private=true" alt="slyvarun's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slyvarun&theme=tokyonight&hide_border=true" alt="slyvarun's GitHub streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyvarun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
